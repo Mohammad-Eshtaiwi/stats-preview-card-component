@@ -200,6 +200,7 @@ main picture {
         display: flex;
         flex-direction: column;
         padding: 0;
+        text-align: center;
     }
 
     main .content {
